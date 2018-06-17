@@ -1,0 +1,40 @@
+body{
+	font-family: Helvetica;
+	text-align: center;
+
+}
+.header,
+.middle{
+	background-image: url("images/background.png");
+	color:white;
+	font-weight: bold;
+}
+h1{
+	font-size: 70px;
+	
+}
+.ln{
+	color: white;
+	font-size: 18px;
+
+}
+.process{
+	font-weight: bold;
+	font-size: 32px;
+
+}
+.sec,
+.middle{
+	font-weight: bold;
+	font-size: 23px;
+
+}
+.text{
+	font-size: 14px;
+}
+.footer{
+	text-align: left;
+	background-color: dimgray;
+	color: white;
+	font-size: 11px;
+}
